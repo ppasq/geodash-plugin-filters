@@ -5,7 +5,7 @@ geodash.filters["choose"] = function()
     if(Array.isArray(arg))
     {
       var arr = arg;
-      return value + arr[value % arr.length];
+      return arr[value % arr.length];
     }
     else
     {
