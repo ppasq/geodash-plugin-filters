@@ -27,6 +27,7 @@ filters:
   - common/ternary.js
   - common/ternary_defined.js
   - common/yaml.js
+  - array/arrayToObject.js
   - array/join.js
   - array/first.js
   - array/last.js
