@@ -32,6 +32,7 @@ filters:
   - array/first.js
   - array/last.js
   - array/choose.js
+  - format/css.js
   - format/formatBreakPoint.js
   - format/formatFloat.js
   - format/formatInteger.js
@@ -43,6 +44,7 @@ filters:
   - math/gt.js
   - string/replace.js
   - string/split.js
+  - string/stringToObject.js
   - url/url_shapefile.js
   - url/url_geojson.js
   - url/url_kml.js
