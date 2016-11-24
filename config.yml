@@ -1,7 +1,7 @@
 ---
+name: "geodash-plugin-filters"
 filters:
   - default.js
-  - md2html.js
   - percent.js
   - tabLabel.js
   - as_float.js
@@ -46,6 +46,7 @@ filters:
   - string/replace.js
   - string/split.js
   - string/stringToObject.js
+  - string/md2html.js
   - url/url_shapefile.js
   - url/url_geojson.js
   - url/url_kml.js
